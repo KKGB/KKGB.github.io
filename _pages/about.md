@@ -325,7 +325,7 @@ Please feel free to contact me if you would like to discuss topics related to my
 
 <div class="experience-item">
   <div>
-    <div class="experience-role">🎓 M.S. Student</div>
+    <div class="experience-role">🎓 Graduate Researcher (M.S.)</div>
     <div class="experience-organization">Cognition and Intelligence Lab, GIST</div>
   </div>
   <div>
@@ -381,17 +381,17 @@ Please feel free to contact me if you would like to discuss topics related to my
 <div class="award-item">
   <div class="award-icon">🏅</div>
   <div>
-    <div class="award-title">Excellence Award in Industry-Academic SW Project</div>
-    <div class="award-description">Received the Excellence Award at the 7th Industry-Academic SW Project Exhibition, Kwangwoon University.</div>
+    <div class="award-title">Grand Prize at the Graduation Project Exhibition</div>
+    <div class="award-description">Received the Grand Prize at the Graduation Project Exhibition, Kwangwoon University.</div>
   </div>
-  <div class="award-date">[February 2023]</div>
+  <div class="award-date">[November 2023]</div>
 </div>
 
 <div class="award-item">
   <div class="award-icon">🏅</div>
   <div>
-    <div class="award-title">Grand Prize at the Graduation Project Exhibition</div>
-    <div class="award-description">Received the Grand Prize at the Graduation Project Exhibition, Kwangwoon University.</div>
+    <div class="award-title">Excellence Award in Industry-Academic SW Project</div>
+    <div class="award-description">Received the Excellence Award at the 7th Industry-Academic SW Project Exhibition, Kwangwoon University.</div>
   </div>
-  <div class="award-date">[November 2023]</div>
+  <div class="award-date">[February 2023]</div>
 </div>
