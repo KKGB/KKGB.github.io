@@ -175,6 +175,8 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
+  display: flex;
+  align-items: center;
   background: var(--global-bg-color);
 
   a {
@@ -202,21 +204,32 @@
     z-index: 100;
   }
 
+  .masthead__site-title {
+    margin-left: 0;
+    margin-right: 2em;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .masthead__site-title.selected {
+    color: var(--global-text-color);
+    border-bottom: 2px solid var(--global-text-color);
+    pointer-events: none;
+    cursor: default;
+  }
+
   .visible-links {
-    display: table;
-    width: 100%;
+    display: flex;
+    align-items: center;
+    width: auto;
+    margin-left: auto;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: block;
 
       &:first-child {
-        font-weight: bold;
-        text-wrap: wrap;
-        width: 100%;
-
         a {
-          margin-left: 0;
+          margin-left: 1rem;
         }
       }
 
