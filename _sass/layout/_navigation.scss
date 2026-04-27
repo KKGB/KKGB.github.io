@@ -204,6 +204,7 @@
 
   .visible-links {
     display: table;
+    width: 100%;
 
     li {
       display: table-cell;
@@ -212,6 +213,7 @@
       &:first-child {
         font-weight: bold;
         text-wrap: wrap;
+        width: 100%;
 
         a {
           margin-left: 0;
