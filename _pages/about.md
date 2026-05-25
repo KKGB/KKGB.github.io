@@ -362,7 +362,7 @@ Please feel free to contact me if you would like to discuss topics related to my
     <div class="experience-organization">Intelligent SW Research Lab, LIG Nex1</div>
   </div>
   <div>
-    <div class="experience-date">2022.12 - 2023.12</div>
+    <div class="experience-date">2022.10 - 2022.11</div>
     <div class="experience-location">Pangyo, Korea</div>
   </div>
 </div>
