@@ -237,7 +237,7 @@ Please feel free to contact me if you would like to discuss topics related to my
   <div>
     <div class="publication-title">What Probing Reveals about Autonomous Driving: Linking Internal Prediction Errors to Ego Planning</div>
     <div class="publication-authors"><a href="https://scholar.google.co.kr/citations?user=qqM2jmkAAAAJ&hl=ko&oi=ao">Hyeonchang Jeon</a>, <strong>Kyungbeom Kim</strong>, <a href="https://www.eugenevinitsky.com/">Eugene Vinitsky</a>, <a href="https://scholar.google.co.kr/citations?user=YBYE93sAAAAJ&hl=ko&oi=sra">Kyung-Joong Kim</a></div>
-    <div class="publication-venue">Preprint '26</div>
+    <div class="publication-venue">Neurips '26, Poster</div>
     <div class="publication-links">
       <a href="https://arxiv.org/abs/2606.31106">paper</a> /
       <a href="https://github.com/KKGB/gpudrive_lab">code</a>
